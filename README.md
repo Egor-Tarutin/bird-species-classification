@@ -68,4 +68,3 @@ Also you can use optional parameters such as:
 
 ## References
 - [BaseModel](https://www.kaggle.com/code/fareselmenshawii/birds-450-species-images-classification/data)
-- [Report](https://docs.google.com/document/d/1YYghV4CnQHWNwT5YkpxcOrAeg120iaUkn1QZG19s77Q/edit?usp=sharing)
